@@ -10,6 +10,8 @@ Email Me 👉 ✉️ mansiisaini29@gmail.com For Collaboration/Project or Anythi
 
 💬 Ask me about design or tech or engineering 
 
+🔅Interested in AI, backend engineering & cloud technologies
+
 ❤️ I’m passionate about learning new things, designing beautiful experiences, and solving real-world problems 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mansi-saini-852456327?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mansisaini2029@gmail.com) 
@@ -21,9 +23,6 @@ Email Me 👉 ✉️ mansiisaini29@gmail.com For Collaboration/Project or Anythi
 ![](https://github-readme-stats.shion.dev/api?username=mansiisainii&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=mansiisainii&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mansiisainii&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mansiisainii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
