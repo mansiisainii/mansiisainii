@@ -1,10 +1,12 @@
-Hi there, I'm Mansi 🦋 
+[![Watch the video](https://github.com/OPTIMUS-PRIME2001/OPTIMUS-PRIME2001/blob/master/workflows/transparent_keubey.gif?raw=true)](https://github.com/OPTIMUS-PRIME2001/OPTIMUS-PRIME2001/blob/master/workflows/transparent_keubey.gif?raw=true)
+
+<h1 align="center">Hi there, I am Mansi🦋</h1>
 
 A Passionate Developer Creating Modern, Secure, and User-Centric Web Applications
 
 Email Me 👉 ✉️ mansiisaini29@gmail.com For Collaboration/Project or Anything Else.
 
-🔭 I’m currently working on an AI powered EcoTrace web application
+🔭 I’m currently working on an AI-powered carbon emission tracking platform.
 
 🌱 I’m currently learning AI/ML
 
