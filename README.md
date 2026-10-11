@@ -8,13 +8,13 @@ Email Me 👉 ✉️ mansiisaini29@gmail.com For Collaboration/Project or Anythi
 
 🔭 I’m currently working on an AI-powered carbon emission tracking platform.
 
-🌱 I’m currently learning AI/ML
+💻 I’m currently learning AI/ML
 
 💬 Ask me about design or tech or engineering
 
 🔅Interested in AI, backend engineering & cloud technologies
 
-❤️ I’m passionate about learning new things, designing beautiful experiences, and solving real-world problems
+🥇 I’m passionate about learning new things, designing beautiful experiences, and solving real-world problems
 
 ## 🌐 Socials:
 
