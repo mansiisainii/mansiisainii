@@ -44,17 +44,17 @@ Full-stack developer building **AI-integrated web applications**, from idea to l
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🌱 EcoTrace</h3>
+      <h3>EcoTrace</h3>
       <p>AI carbon accounting dashboard that automates Scope 1, 2 and 3 emissions tracking, with a 3-layer fallback architecture and a caching chatbot that cuts repeat API calls by ~90%.</p>
       <sub><b>MERN · Groq API · Climatiq API · Tailwind CSS</b></sub>
     </td>
     <td width="33%" valign="top">
-      <h3>🌐 SiteForge-AI</h3>
+      <h3>SiteForge-AI</h3>
       <p>AI website builder that turns natural language prompts into working HTML/CSS/JS sites, with live preview, code export, one-click deploy, and subscription-based access.</p>
       <sub><b>MERN · Gemini API · Framer Motion · Firebase Auth · Razorpay</b></sub>
     </td>
     <td width="33%" valign="top">
-      <h3>💪 FitSync</h3>
+      <h3>FitSync</h3>
       <p>AI health and fitness app for food logging and activity tracking, with an AI Food Snap feature that identifies food from photos and estimates calories.</p>
       <sub><b>React · TypeScript · Strapi · PostgreSQL · Gemini API</b></sub>
     </td>
