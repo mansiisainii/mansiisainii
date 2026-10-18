@@ -1,39 +1,114 @@
-[![Watch the video](https://github.com/OPTIMUS-PRIME2001/OPTIMUS-PRIME2001/blob/master/workflows/transparent_keubey.gif?raw=true)](https://github.com/OPTIMUS-PRIME2001/OPTIMUS-PRIME2001/blob/master/workflows/transparent_keubey.gif?raw=true)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mansi%20Saini&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20%7C%20Full%20Stack%20MERN&descAlignY=60&descSize=18" width="100%" alt="header" />
+</div>
 
-<h1 align="center">Hi there, I'm Mansi🦋</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN;Java+%2B+DSA+Problem+Solver;AI+Integrations+Builder;AWS+Certified+Cloud+Practitioner" alt="typing animation" />
+</div>
 
-A Passionate Developer Creating Modern, Secure, and User-Centric Web Applications
+<div align="center">
+  <a href="https://www.linkedin.com/in/mansiisainii"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mansiisaini29@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/mansiisainii"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
 
-Email Me 👉 ✉️ mansiisaini29@gmail.com For Collaboration/Project or Anything Else.
+<br/>
 
-🔭 I’m currently working on an AI-powered carbon emission tracking platform.
+## 👩‍💻 About Me
 
-💻 I’m currently learning AI/ML
+Full-stack developer building **AI-integrated web applications**, from idea to live deployment, with a focus on modern, secure and user-centric experiences.
 
-💬 Ask me about design or tech or engineering
+- 🔭 Currently building an **AI-powered carbon emission tracking platform** (EcoTrace)
+- 💻 Currently learning **AI/ML**
+- 🎓 Final-year B.Tech CSE @ **MIET Meerut** (GPA 8.88)
+- ☁️ **AWS Certified Cloud Practitioner**
+- 🧩 **300+** problems solved on LeetCode
+- 🏆 **Smart India Hackathon 2025**: UFDR Agent (AI forensic framework)
+- 💬 Ask me about **design, tech or engineering**
+- 📫 Collaboration / projects / anything else: **mansiisaini29@gmail.com**
 
-🔅Interested in AI, backend engineering & cloud technologies
+<br/>
 
-🥇 I’m passionate about learning new things, designing beautiful experiences, and solving real-world problems
+## 🧸 Meet My Little Toons
 
-## 🌐 Socials:
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="80" alt="robot" /><br/>
+      <b>AI Integrations</b><br/><sub>Groq · Gemini · LLMs</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="80" alt="cloud" /><br/>
+      <b>AWS Certified</b><br/><sub>Cloud Practitioner</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="80" alt="coffee" /><br/>
+      <b>Java & DSA</b><br/><sub>300+ LeetCode</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bug.png" width="80" alt="bug" /><br/>
+      <b>Debug Mode</b><br/><sub>Hunting bugs 24/7</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" width="80" alt="cat" /><br/>
+      <b>Build with Love</b><br/><sub>MERN · React · Node</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="80" alt="fire" /><br/>
+      <b>Always Learning</b><br/><sub>AI / ML</sub>
+    </td>
+  </tr>
+</table>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mansi-saini-852456327?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mansisaini2029@gmail.com)
+<br/>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,c,python,html,css,react,tailwind,bootstrap,nodejs,express,mongodb,postgres,mysql,aws,git,github,postman,vscode&perline=10" alt="tech stack" />
+</div>
 
-# 📊 GitHub Stats:
+<br/>
 
-![](https://github-readme-stats.shion.dev/api?username=mansiisainii&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mansiisainii&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mansiisainii&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🚀 Featured Projects
 
-### ✍️ Random Dev Quote
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🌱 EcoTrace</h3>
+      <p>AI carbon accounting dashboard that automates Scope 1, 2 and 3 emissions tracking, with a 3-layer fallback architecture and a caching chatbot that cuts repeat API calls by ~90%.</p>
+      <sub><b>MERN · Groq API · Climatiq API · Tailwind CSS</b></sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🌐 SiteForge-AI</h3>
+      <p>AI website builder that turns natural language prompts into working HTML/CSS/JS sites, with live preview, code export, one-click deploy, and subscription-based access.</p>
+      <sub><b>MERN · Gemini API · Framer Motion · Firebase Auth · Razorpay</b></sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💪 FitSync</h3>
+      <p>AI health and fitness app for food logging and activity tracking, with an AI Food Snap feature that identifies food from photos and estimates calories.</p>
+      <sub><b>React · TypeScript · Strapi · PostgreSQL · Gemini API</b></sub>
+    </td>
+  </tr>
+</table>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
+## 📊 GitHub Stats
 
+<div align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=mansiisainii&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=false" alt="stats" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mansiisainii&theme=radical&hide_border=true&layout=compact&include_all_commits=true" alt="top langs" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=mansiisainii&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak" />
+</div>
 
+<br/>
 
+## ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
