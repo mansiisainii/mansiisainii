@@ -86,7 +86,7 @@
     <!-- greeting + name -->
     <text x="42" y="92" font-size="24" fill="#e9d5ff">Hi there, I'm</text>
     <g clip-path="url(#reveal)">
-      <text x="40" y="160" font-size="62" font-weight="800" fill="url(#nameGrad)">Mansi Saini</text>
+      <text x="40" y="160" font-size="62" font-weight="800" fill="url(#nameGrad)">Mansi</text>
     </g>
 
     <!-- butterfly -->
