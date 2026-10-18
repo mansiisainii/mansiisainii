@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mansi%20Saini&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20%7C%20Full%20Stack%20MERN&descAlignY=60&descSize=18" width="100%" alt="header" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN;Java+%2B+DSA+Problem+Solver;AI+Integrations+Builder;AWS+Certified+Cloud+Practitioner" alt="typing animation" />
+  <img src="assets/banner.svg" alt="Mansi Saini - Software Engineer | Java | Full Stack (MERN)" width="100%" />
 </div>
 
 <div align="center">
@@ -20,10 +16,8 @@ Full-stack developer building **AI-integrated web applications**, from idea to l
 
 - 🔭 Currently building an **AI-powered carbon emission tracking platform** (EcoTrace)
 - 💻 Currently learning **AI/ML**
-- 🎓 Final-year B.Tech CSE @ **MIET Meerut** (GPA 8.88)
+- 🎓 Final-year B.Tech CSE Student
 - ☁️ **AWS Certified Cloud Practitioner**
-- 🧩 **300+** problems solved on LeetCode
-- 🏆 **Smart India Hackathon 2025**: UFDR Agent (AI forensic framework)
 - 💬 Ask me about **design, tech or engineering**
 - 📫 Collaboration / projects / anything else: **mansiisaini29@gmail.com**
 
@@ -31,34 +25,9 @@ Full-stack developer building **AI-integrated web applications**, from idea to l
 
 ## 🧸 Meet My Little Toons
 
-<table align="center">
-  <tr>
-    <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="80" alt="robot" /><br/>
-      <b>AI Integrations</b><br/><sub>Groq · Gemini · LLMs</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="80" alt="cloud" /><br/>
-      <b>AWS Certified</b><br/><sub>Cloud Practitioner</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="80" alt="coffee" /><br/>
-      <b>Java & DSA</b><br/><sub>300+ LeetCode</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bug.png" width="80" alt="bug" /><br/>
-      <b>Debug Mode</b><br/><sub>Hunting bugs 24/7</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Cat%20with%20Heart-Eyes.png" width="80" alt="cat" /><br/>
-      <b>Build with Love</b><br/><sub>MERN · React · Node</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="80" alt="fire" /><br/>
-      <b>Always Learning</b><br/><sub>AI / ML</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="assets/toons.svg" alt="Little cartoon characters representing my skills" width="100%" />
+</div>
 
 <br/>
 
@@ -111,4 +80,8 @@ Full-stack developer building **AI-integrated web applications**, from idea to l
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
+<br/>
+
+<div align="center">
+  <img src="assets/footer.svg" alt="Thanks for stopping by" width="100%" />
+</div>
