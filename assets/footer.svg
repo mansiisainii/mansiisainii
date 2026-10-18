@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120" role="img" aria-label="Thanks for stopping by">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1e1b4b">
+        <animate attributeName="stop-color" values="#1e1b4b;#4c1d95;#831843;#1e1b4b" dur="12s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#7c3aed">
+        <animate attributeName="stop-color" values="#7c3aed;#db2777;#4338ca;#7c3aed" dur="12s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <clipPath id="fcard"><rect width="900" height="120" rx="22"/></clipPath>
+  </defs>
+
+  <style>
+    text { font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    .wave1 { animation: wv 9s linear infinite; }
+    .wave2 { animation: wv 14s linear infinite reverse; }
+    @keyframes wv { from { transform: translateX(0); } to { transform: translateX(-300px); } }
+    .heart { animation: heart 3.6s ease-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes heart { 0% { opacity: 0; transform: translateY(10px) scale(.6); } 25% { opacity: 1; } 100% { opacity: 0; transform: translateY(-36px) scale(1.1); } }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes pulse { 0%,100% { transform: scale(1); } 50% { transform: scale(1.04); } }
+  </style>
+
+  <g clip-path="url(#fcard)">
+    <rect width="900" height="120" fill="url(#fbg)"/>
+    <g class="wave1">
+      <path fill="#ffffff" opacity=".08" d="M0 78 q75 -22 150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 V120 H0 Z"/>
+    </g>
+    <g class="wave2">
+      <path fill="#ffffff" opacity=".12" d="M0 94 q75 16 150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 V120 H0 Z"/>
+    </g>
+
+    <g class="pulse">
+      <text x="450" y="54" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">Thanks for stopping by!</text>
+    </g>
+    <text x="450" y="78" text-anchor="middle" font-size="14" fill="#e9d5ff">Let's build something awesome together</text>
+
+    <g transform="translate(300,86) scale(1.4)"><path class="heart" d="M0 0 C-7 -8 -2 -14 0 -9 C2 -14 7 -8 0 0 Z" fill="#fb7185"/></g>
+    <g transform="translate(600,90) scale(1.2)"><path class="heart" style="animation-delay:1.2s" d="M0 0 C-7 -8 -2 -14 0 -9 C2 -14 7 -8 0 0 Z" fill="#f9a8d4"/></g>
+    <g transform="translate(450,98) scale(1)"><path class="heart" style="animation-delay:2.4s" d="M0 0 C-7 -8 -2 -14 0 -9 C2 -14 7 -8 0 0 Z" fill="#fda4af"/></g>
+  </g>
+</svg>
